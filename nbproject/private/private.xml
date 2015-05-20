@@ -5,13 +5,15 @@
         <group>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/login-form.php</file>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/logout-user.php</file>
+            <file>file:/C:/xampp/htdocs/IsmaelRamonA/database.php</file>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/Create-user.php</file>
+            <file>file:/C:/xampp/htdocs/IsmaelRamonA/config.php</file>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/index.php</file>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/login-user.php</file>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/login.php</file>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/register-form.php</file>
-            <file>file:/C:/xampp/htdocs/IsmaelRamonA/login-verify.php</file>
             <file>file:/C:/xampp/htdocs/IsmaelRamonA/register.php</file>
+            <file>file:/C:/xampp/htdocs/IsmaelRamonA/login-verify.php</file>
         </group>
     </open-files>
 </project-private>
